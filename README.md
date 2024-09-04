@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maximscheck
-- 👀 I’m interested in Java, Python, full-stack, cybersec, and more!
+- 👀 I’m interested in Java, Python, cyber security, and more!
 - 🌱 I’m currently learning Python and Java
 - 📫 How to reach me: maximscheck0@gmail.com
 
