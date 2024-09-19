@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maximscheck
+- 👋 Hi, I’m @maximscheck. My school account is @maximscheckMRU
 - 👀 I’m interested in Java, Python, cyber security, and more!
 - 🌱 I’m currently learning Python and Java
 - 📫 How to reach me: maximscheck0@gmail.com
